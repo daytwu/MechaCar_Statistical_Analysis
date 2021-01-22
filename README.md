@@ -30,5 +30,14 @@ The linear model effectively predicts the mpg for the MechaCar prototypes but on
 The current manufacturing data shows that the variance is met for the lots in total since the total variance only comes down to 62.29 but does not meet this requirement by the lots individually. Specifically, lot 3 has failed to meet this requirement. Both lot 1 and 2 has a small variance of 0.98 and 7.47 each which passed, but lot 3 had a variance of 170.27, which far exceeded the maximum for the suspension coils at 100 pounds per square inch.
 
 
+## T-Test on Suspension Coils
 
+<img width="454" alt="t test_total_lots" src="https://user-images.githubusercontent.com/68725398/105549101-8176d880-5cce-11eb-944c-edd20cf4c8eb.png">
+<img width="517" alt="t test_lot1" src="https://user-images.githubusercontent.com/68725398/105549104-8176d880-5cce-11eb-8a4a-6659491f68a3.png">
+<img width="520" alt="t test_lot2" src="https://user-images.githubusercontent.com/68725398/105549105-8176d880-5cce-11eb-98f0-bb7c9caabf51.png">
 
+The above for total lots, lots 1 and lots 2 shows that the p-value is still above our assumed significance level of 0.05, thus meaning that we cannot reject our null hypothesis.
+
+<img width="510" alt="t test_lot3" src="https://user-images.githubusercontent.com/68725398/105549106-8176d880-5cce-11eb-9814-bff6bda96c03.png">
+
+However, lot3 shows the p-value is at 
