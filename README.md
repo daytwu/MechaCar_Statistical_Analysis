@@ -54,8 +54,10 @@ City/Hwy fuel efficiency, cost and safety ratings would be absolutely important 
 Null hypothesis would be that the MechaCar and its competitors are comparatively the same and the alternative hypothesis is that the MechaCar and competitors are different, preferably with MechaCar ending up rated higher.
 
 - What statistical test would you use to test the hypothesis? And why?
+
 Cost should absolutely be a deciding factor here with the other variables supporting this factor. Tests can be done to see how much the other factors affect the costs, the more variables the better in this test.
 
 - What data is needed to run the statistical test?
+
 MechaCar and its competitors costs along with their other stats would be critical here for accuracy. All the other required factors will improve the accuracy, the more more the better. 
 
