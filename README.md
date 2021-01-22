@@ -41,3 +41,21 @@ The above for total lots, lot 1 and lot 2 shows that the p-value is still above 
 <img width="510" alt="t test_lot3" src="https://user-images.githubusercontent.com/68725398/105549106-8176d880-5cce-11eb-9814-bff6bda96c03.png">
 
 However, lot 3 shows the p-value is at 0.04, which is lower than our significance leve lof 0.05. With that said, we can safely say that null hypothesis should be rejected as the PSI for lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
+
+
+## Study Design: MechaCar vs Competition
+
+- What metric or metrics are you going to test?
+
+City/Hwy fuel efficiency, cost and safety ratings would be absolutely important metrics to consider for testing. These would most likely be the standards for generic everyday consumers when they compare a car to its competition in buy/pass scales.
+
+- What is the null hypothesis or alternative hypothesis?
+
+Null hypothesis would be that the MechaCar and its competitors are comparatively the same and the alternative hypothesis is that the MechaCar and competitors are different, preferably with MechaCar ending up rated higher.
+
+- What statistical test would you use to test the hypothesis? And why?
+Cost should absolutely be a deciding factor here with the other variables supporting this factor. Tests can be done to see how much the other factors affect the costs, the more variables the better in this test.
+
+- What data is needed to run the statistical test?
+MechaCar and its competitors costs along with their other stats would be critical here for accuracy. All the other required factors will improve the accuracy, the more more the better. 
+
