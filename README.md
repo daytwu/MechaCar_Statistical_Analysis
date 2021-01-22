@@ -36,8 +36,8 @@ The current manufacturing data shows that the variance is met for the lots in to
 <img width="517" alt="t test_lot1" src="https://user-images.githubusercontent.com/68725398/105549104-8176d880-5cce-11eb-8a4a-6659491f68a3.png">
 <img width="520" alt="t test_lot2" src="https://user-images.githubusercontent.com/68725398/105549105-8176d880-5cce-11eb-98f0-bb7c9caabf51.png">
 
-The above for total lots, lots 1 and lots 2 shows that the p-value is still above our assumed significance level of 0.05, thus meaning that we cannot reject our null hypothesis.
+The above for total lots, lot 1 and lot 2 shows that the p-value is still above our assumed significance level of 0.05, thus meaning that we cannot reject our null hypothesis.
 
 <img width="510" alt="t test_lot3" src="https://user-images.githubusercontent.com/68725398/105549106-8176d880-5cce-11eb-9814-bff6bda96c03.png">
 
-However, lot3 shows the p-value is at 
+However, lot 3 shows the p-value is at 0.04, which is lower than our significance leve lof 0.05. With that said, we can safely say that null hypothesis should be rejected as the PSI for lot 3 is statistically different from the population mean of 1,500 pounds per square inch.
